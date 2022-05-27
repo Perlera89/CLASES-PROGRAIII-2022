@@ -1,4 +1,11 @@
-/Users/perlera/Documents/Programación/Java/Clases/ClasesGenerales/src/main/java/DAO/Estudiantes.java
-/Users/perlera/Documents/Programación/Java/Clases/ClasesGenerales/src/main/java/Entidades/Estudiante.java
-/Users/perlera/Documents/Programación/Java/Clases/ClasesGenerales/src/main/java/com/perlera/BD/ConnectionMysql.java
-/Users/perlera/Documents/Programación/Java/Clases/ClasesGenerales/src/main/java/com/perlera/clasesgenerales/FrmConsultaBd.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/service/NotaDao.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/service/EstudianteDao.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/Entidades/Estudiante.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/com/william/clasesgenerales/FrmMain.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/com/william/clasesgenerales/FrmMenu.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/Entidades/Materia.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/ViewModel/NotaVM.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/service/MateriaDao.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/Entidades/Nota.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/com/william/BD/Conexion.java
+/Users/perlera/Documents/GitHub/shareFolder/ClasesGenerales/src/main/java/com/william/clasesgenerales/FrmLogin.java

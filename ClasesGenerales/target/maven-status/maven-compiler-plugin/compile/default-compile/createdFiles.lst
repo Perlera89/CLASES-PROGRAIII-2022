@@ -1,7 +1,7 @@
-com/perlera/clasesgenerales/FrmConsultaBd.class
-DAO/Estudiantes.class
-com/perlera/BD/ConnectionMysql.class
-com/perlera/clasesgenerales/FrmConsultaBd$2.class
+service/EstudianteDao.class
+com/william/BD/Conexion.class
+Entidades/Materia.class
+ViewModel/NotaVM.class
 Entidades/Estudiante.class
-com/perlera/clasesgenerales/FrmConsultaBd$1.class
-com/perlera/clasesgenerales/FrmConsultaBd$3.class
+Entidades/Nota.class
+service/NotaDao.class
